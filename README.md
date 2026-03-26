@@ -15,5 +15,5 @@
 </div>
 ---
 # Rodrigo Campos
-**Technical Profile & Research Interests**
----
+
+_Technical Profile & Research Interests_
