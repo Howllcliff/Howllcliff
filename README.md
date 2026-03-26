@@ -14,6 +14,6 @@
     </a>
 </div>
 
-**Rodrigo Campos**
+#**Rodrigo Campos**
 
-_Technical Profile & Research Interests_
+######_Technical Profile & Research Interests_
