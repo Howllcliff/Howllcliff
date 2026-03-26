@@ -1,3 +1,4 @@
+
 ---
 <div align="left">
     <a href="https://www.linkedin.com/in/howllcliff" target="_blank">
@@ -13,6 +14,6 @@
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" padding="5" alt="instagram logo" />
     </a>
 </div>
-Rodrigo Campos
+**Rodrigo Campos**
 
 _Technical Profile & Research Interests_
