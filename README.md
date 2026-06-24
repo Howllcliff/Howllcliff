@@ -14,7 +14,7 @@
     </a>
 </div>
 
-# **Rodrigo Campos**
+# **Rodrigo Vieria**
 
 ###### _Technical Profile & Research Interests_
 
